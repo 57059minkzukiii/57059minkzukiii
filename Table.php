@@ -12,9 +12,9 @@
       </tr>
       <tr>
         <td>1</td>                  
-        <td>Kentob yamazaki</td>
+        <td>Kento yamazaki</td>
         <td><img src="https://uncommontrax.com/wp-content/uploads/2021/01/ebf8521eb1427dcf6c309e6b4b0a47ee.png" width="45px"></td>
-        <td><a href="https://instagram.com/o">Instragram</a></td>
+        <td><a href="https://instagram.com/kentooyamazaki?utm_medium=copy_link">Instragram</a></td>
       </tr>
       <tr>
         <td>2</td>
@@ -37,7 +37,7 @@
       <tr>
         <td>5</td>
         <td>sunghoon</td>
-        <td><img src="https://kprofiles.com/wp-content/uploads/2020/08/Sunghoon-2-990x1290.Jose" width="45px"></td>
+        <td><img src="https://morningpicker.com/wp-content/uploads/2021/09/Screenshot_2021-09-27-17-03-47-25.jpg" width="45px"></td>
         <td><a href="https://instagram.com/enhypen?utm_medium=copy_link">Instragram</a></td>
       </tr>
     </table>
