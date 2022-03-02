@@ -19,7 +19,7 @@
       <tr>
         <td>2</td>
         <td>Chaeunwoo</td>
-        <td><img src="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/12/12/2536920885.jpg" width="45px"></td>
+        <td><img src="https://0.soompi.io/wp-content/uploads/2021/02/18155504/astro-cha-eun-woo.jpg" width="45px"></td>
         <td><a href="https://instagram.com/eunwo.o_c?utm_medium=copy_link">Instragram</a></td>
       </tr>
       <tr>
